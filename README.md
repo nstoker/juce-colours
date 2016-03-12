@@ -1,2 +1,3 @@
 # juce-colours
-A tool to help create and export the juce colour id's
+A utility to create the colour mapping codes for a Juce GUI application to aid
+the configuration of a Juce project.
